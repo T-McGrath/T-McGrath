@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hello other human beings!
+I'm Trevor, and I am a sort-of-brand-new software developer. To elaborate, I was a math teacher for 16 years, seven (?) of which I also taught computer science classes. I did not go to school for computer science, so those first couple/few years I was learning to code right along with the students. I only taught the foundational stuff (using Python and Java), so that is the extent of my programming knowledge...for now. That will change drastically by the middle of December as I make my way through the Tech Elevator bootcamp 😬😬😬
+
+I love cats (and dogs, but my wife and I don't have any yet), I have an unhealthy relationship with ice cream and candy, and I draw my smiley faces with noses. Apparently that's weird :-) 
 
 <!--
 **T-McGrath/T-McGrath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
