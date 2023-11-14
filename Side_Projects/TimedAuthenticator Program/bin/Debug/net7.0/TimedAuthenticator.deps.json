@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TimedAuthenticator/1.0.0": {
+        "runtime": {
+          "TimedAuthenticator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TimedAuthenticator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

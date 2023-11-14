@@ -1,0 +1,56 @@
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle\obj\Debug\net7.0\McWordle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle\obj\Debug\net7.0\McWordle.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle\obj\Debug\net7.0\McWordle.AssemblyInfo.cs
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle\obj\Debug\net7.0\McWordle.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle\bin\Debug\net7.0\McWordle.exe
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle\bin\Debug\net7.0\McWordle.deps.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle\bin\Debug\net7.0\McWordle.runtimeconfig.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle\bin\Debug\net7.0\McWordle.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle\bin\Debug\net7.0\McWordle.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle\obj\Debug\net7.0\McWordle.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle\obj\Debug\net7.0\refint\McWordle.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle\obj\Debug\net7.0\McWordle.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle\obj\Debug\net7.0\McWordle.genruntimeconfig.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle\obj\Debug\net7.0\ref\McWordle.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle\McWordle Program\bin\Debug\net7.0\McWordle.exe
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle\McWordle Program\bin\Debug\net7.0\McWordle.deps.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle\McWordle Program\bin\Debug\net7.0\McWordle.runtimeconfig.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle\McWordle Program\bin\Debug\net7.0\McWordle.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle\McWordle Program\bin\Debug\net7.0\McWordle.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle\McWordle Program\obj\Debug\net7.0\McWordle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle\McWordle Program\obj\Debug\net7.0\McWordle.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle\McWordle Program\obj\Debug\net7.0\McWordle.AssemblyInfo.cs
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle\McWordle Program\obj\Debug\net7.0\McWordle.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle\McWordle Program\obj\Debug\net7.0\McWordle.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle\McWordle Program\obj\Debug\net7.0\refint\McWordle.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle\McWordle Program\obj\Debug\net7.0\McWordle.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle\McWordle Program\obj\Debug\net7.0\McWordle.genruntimeconfig.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle\McWordle Program\obj\Debug\net7.0\ref\McWordle.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle Program\McWordle\bin\Debug\net7.0\McWordle.exe
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle Program\McWordle\bin\Debug\net7.0\McWordle.deps.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle Program\McWordle\bin\Debug\net7.0\McWordle.runtimeconfig.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle Program\McWordle\bin\Debug\net7.0\McWordle.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle Program\McWordle\bin\Debug\net7.0\McWordle.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle Program\McWordle\obj\Debug\net7.0\McWordle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle Program\McWordle\obj\Debug\net7.0\McWordle.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle Program\McWordle\obj\Debug\net7.0\McWordle.AssemblyInfo.cs
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle Program\McWordle\obj\Debug\net7.0\McWordle.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle Program\McWordle\obj\Debug\net7.0\McWordle.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle Program\McWordle\obj\Debug\net7.0\refint\McWordle.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle Program\McWordle\obj\Debug\net7.0\McWordle.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle Program\McWordle\obj\Debug\net7.0\McWordle.genruntimeconfig.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordle Program\McWordle\obj\Debug\net7.0\ref\McWordle.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordleProgram\McWordle\bin\Debug\net7.0\McWordle.exe
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordleProgram\McWordle\bin\Debug\net7.0\McWordle.deps.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordleProgram\McWordle\bin\Debug\net7.0\McWordle.runtimeconfig.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordleProgram\McWordle\bin\Debug\net7.0\McWordle.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordleProgram\McWordle\bin\Debug\net7.0\McWordle.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordleProgram\McWordle\obj\Debug\net7.0\McWordle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordleProgram\McWordle\obj\Debug\net7.0\McWordle.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordleProgram\McWordle\obj\Debug\net7.0\McWordle.AssemblyInfo.cs
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordleProgram\McWordle\obj\Debug\net7.0\McWordle.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordleProgram\McWordle\obj\Debug\net7.0\McWordle.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordleProgram\McWordle\obj\Debug\net7.0\refint\McWordle.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordleProgram\McWordle\obj\Debug\net7.0\McWordle.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordleProgram\McWordle\obj\Debug\net7.0\McWordle.genruntimeconfig.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\McWordleProgram\McWordle\obj\Debug\net7.0\ref\McWordle.dll

@@ -1,0 +1,14 @@
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\TimedAuthenticator\bin\Debug\net7.0\TimedAuthenticator.exe
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\TimedAuthenticator\bin\Debug\net7.0\TimedAuthenticator.deps.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\TimedAuthenticator\bin\Debug\net7.0\TimedAuthenticator.runtimeconfig.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\TimedAuthenticator\bin\Debug\net7.0\TimedAuthenticator.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\TimedAuthenticator\bin\Debug\net7.0\TimedAuthenticator.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\TimedAuthenticator\obj\Debug\net7.0\TimedAuthenticator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\TimedAuthenticator\obj\Debug\net7.0\TimedAuthenticator.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\TimedAuthenticator\obj\Debug\net7.0\TimedAuthenticator.AssemblyInfo.cs
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\TimedAuthenticator\obj\Debug\net7.0\TimedAuthenticator.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\TimedAuthenticator\obj\Debug\net7.0\TimedAuthenticator.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\TimedAuthenticator\obj\Debug\net7.0\refint\TimedAuthenticator.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\TimedAuthenticator\obj\Debug\net7.0\TimedAuthenticator.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\TimedAuthenticator\obj\Debug\net7.0\TimedAuthenticator.genruntimeconfig.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\side_projects\TimedAuthenticator\obj\Debug\net7.0\ref\TimedAuthenticator.dll
