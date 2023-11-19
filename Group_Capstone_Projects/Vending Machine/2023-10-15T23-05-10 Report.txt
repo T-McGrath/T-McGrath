@@ -1,0 +1,5 @@
+Galapagos Penguin|2
+Tabby Cat|1
+Calico Cat|1
+
+TOTAL SALES $8.55
