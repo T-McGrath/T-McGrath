@@ -1,0 +1,14 @@
+C:\Users\Student\workspace\c-sharp-week2-team5\TEams\bin\Debug\net6.0\TEams.exe
+C:\Users\Student\workspace\c-sharp-week2-team5\TEams\bin\Debug\net6.0\TEams.deps.json
+C:\Users\Student\workspace\c-sharp-week2-team5\TEams\bin\Debug\net6.0\TEams.runtimeconfig.json
+C:\Users\Student\workspace\c-sharp-week2-team5\TEams\bin\Debug\net6.0\TEams.dll
+C:\Users\Student\workspace\c-sharp-week2-team5\TEams\bin\Debug\net6.0\TEams.pdb
+C:\Users\Student\workspace\c-sharp-week2-team5\TEams\obj\Debug\net6.0\TEams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\workspace\c-sharp-week2-team5\TEams\obj\Debug\net6.0\TEams.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\c-sharp-week2-team5\TEams\obj\Debug\net6.0\TEams.AssemblyInfo.cs
+C:\Users\Student\workspace\c-sharp-week2-team5\TEams\obj\Debug\net6.0\TEams.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\c-sharp-week2-team5\TEams\obj\Debug\net6.0\TEams.dll
+C:\Users\Student\workspace\c-sharp-week2-team5\TEams\obj\Debug\net6.0\refint\TEams.dll
+C:\Users\Student\workspace\c-sharp-week2-team5\TEams\obj\Debug\net6.0\TEams.pdb
+C:\Users\Student\workspace\c-sharp-week2-team5\TEams\obj\Debug\net6.0\TEams.genruntimeconfig.cache
+C:\Users\Student\workspace\c-sharp-week2-team5\TEams\obj\Debug\net6.0\ref\TEams.dll
