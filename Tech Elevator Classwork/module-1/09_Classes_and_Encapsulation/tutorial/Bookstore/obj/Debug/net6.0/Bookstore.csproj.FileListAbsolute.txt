@@ -1,0 +1,14 @@
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\09_Classes_and_Encapsulation\tutorial\Bookstore\bin\Debug\net6.0\Bookstore.exe
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\09_Classes_and_Encapsulation\tutorial\Bookstore\bin\Debug\net6.0\Bookstore.deps.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\09_Classes_and_Encapsulation\tutorial\Bookstore\bin\Debug\net6.0\Bookstore.runtimeconfig.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\09_Classes_and_Encapsulation\tutorial\Bookstore\bin\Debug\net6.0\Bookstore.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\09_Classes_and_Encapsulation\tutorial\Bookstore\bin\Debug\net6.0\Bookstore.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\09_Classes_and_Encapsulation\tutorial\Bookstore\obj\Debug\net6.0\Bookstore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\09_Classes_and_Encapsulation\tutorial\Bookstore\obj\Debug\net6.0\Bookstore.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\09_Classes_and_Encapsulation\tutorial\Bookstore\obj\Debug\net6.0\Bookstore.AssemblyInfo.cs
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\09_Classes_and_Encapsulation\tutorial\Bookstore\obj\Debug\net6.0\Bookstore.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\09_Classes_and_Encapsulation\tutorial\Bookstore\obj\Debug\net6.0\Bookstore.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\09_Classes_and_Encapsulation\tutorial\Bookstore\obj\Debug\net6.0\refint\Bookstore.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\09_Classes_and_Encapsulation\tutorial\Bookstore\obj\Debug\net6.0\Bookstore.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\09_Classes_and_Encapsulation\tutorial\Bookstore\obj\Debug\net6.0\Bookstore.genruntimeconfig.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\09_Classes_and_Encapsulation\tutorial\Bookstore\obj\Debug\net6.0\ref\Bookstore.dll

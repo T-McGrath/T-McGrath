@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "j66V3eO2ftEQId1sJM08tYN5adc4GZaNVjnJSzlKgjI=",
+  "Source": "LocationServer",
+  "BasePath": "_content/LocationServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

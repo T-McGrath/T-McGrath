@@ -1,0 +1,58 @@
+Bug 1
+-----
+Test that demonstrates problem: 
+	GetTimesheetsByEmployeeId_With_Valid_Employee_Id_Returns_List_Of_Timesheets_For_Employee
+
+Expected output: 
+	2 Timesheet objects in a list
+
+Actual output: 
+	1 Timesheet in the list
+
+How did you fix this bug? 
+	Replace the 'if' with a 'while' in the GetTimesheetsByEmployeeId method.
+
+Bug 2
+-----
+Test that demonstrates problem:
+	GetTimesheetsByProjectId_With_Valid_Project_Id_Returns_List_Of_Timesheets_For_Project
+
+Expected output: 
+	3 Timesheet objects in a list
+
+Actual output:
+	2 Timesheets in a list
+
+How did you fix this bug?
+	In the GetTimesheetsByProjectId method, I changed the SQL statement to say  WHERE project_id = @project_id
+
+
+Bug 3
+-----
+Test that demonstrates problem:
+	GetBillableHours_Returns_Correct_Total(2, 2)
+
+Expected output:
+	0.0
+
+Actual output:
+	2.0
+
+How did you fix this bug?
+	In the GetBillableHours method, add a clause at the end of the WHERE that says 'AND is_billable = 1;'
+
+
+Bug 4
+-----
+Test that demonstrates problem:
+	UpdateTimesheet_Updates_Timesheet
+
+Expected output:
+	All tests pass from the AssertTimesheetsMatch.
+
+Actual output:
+	Expected and Actual is_billable values are opposites.
+
+How did you fix this bug?
+	In the UpdateTimesheet method, add 'is_billable = @is_billable,' into the SET clause of the SQL query.
+

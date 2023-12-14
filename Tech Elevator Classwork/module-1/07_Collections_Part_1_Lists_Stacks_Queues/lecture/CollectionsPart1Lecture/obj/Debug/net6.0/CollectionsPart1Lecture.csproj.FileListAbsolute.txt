@@ -1,0 +1,14 @@
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\07_Collections_Part_1_Lists_Stacks_Queues\lecture\CollectionsPart1Lecture\bin\Debug\net6.0\CollectionsPart1Lecture.exe
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\07_Collections_Part_1_Lists_Stacks_Queues\lecture\CollectionsPart1Lecture\bin\Debug\net6.0\CollectionsPart1Lecture.deps.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\07_Collections_Part_1_Lists_Stacks_Queues\lecture\CollectionsPart1Lecture\bin\Debug\net6.0\CollectionsPart1Lecture.runtimeconfig.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\07_Collections_Part_1_Lists_Stacks_Queues\lecture\CollectionsPart1Lecture\bin\Debug\net6.0\CollectionsPart1Lecture.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\07_Collections_Part_1_Lists_Stacks_Queues\lecture\CollectionsPart1Lecture\bin\Debug\net6.0\CollectionsPart1Lecture.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\07_Collections_Part_1_Lists_Stacks_Queues\lecture\CollectionsPart1Lecture\obj\Debug\net6.0\CollectionsPart1Lecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\07_Collections_Part_1_Lists_Stacks_Queues\lecture\CollectionsPart1Lecture\obj\Debug\net6.0\CollectionsPart1Lecture.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\07_Collections_Part_1_Lists_Stacks_Queues\lecture\CollectionsPart1Lecture\obj\Debug\net6.0\CollectionsPart1Lecture.AssemblyInfo.cs
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\07_Collections_Part_1_Lists_Stacks_Queues\lecture\CollectionsPart1Lecture\obj\Debug\net6.0\CollectionsPart1Lecture.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\07_Collections_Part_1_Lists_Stacks_Queues\lecture\CollectionsPart1Lecture\obj\Debug\net6.0\CollectionsPart1Lecture.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\07_Collections_Part_1_Lists_Stacks_Queues\lecture\CollectionsPart1Lecture\obj\Debug\net6.0\refint\CollectionsPart1Lecture.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\07_Collections_Part_1_Lists_Stacks_Queues\lecture\CollectionsPart1Lecture\obj\Debug\net6.0\CollectionsPart1Lecture.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\07_Collections_Part_1_Lists_Stacks_Queues\lecture\CollectionsPart1Lecture\obj\Debug\net6.0\CollectionsPart1Lecture.genruntimeconfig.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\07_Collections_Part_1_Lists_Stacks_Queues\lecture\CollectionsPart1Lecture\obj\Debug\net6.0\ref\CollectionsPart1Lecture.dll

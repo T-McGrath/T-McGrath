@@ -1,0 +1,17 @@
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\tutorial\Tutorial\bin\Debug\net6.0\Tutorial.exe
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\tutorial\Tutorial\bin\Debug\net6.0\data\fairy-tales.txt
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\tutorial\Tutorial\bin\Debug\net6.0\data\jekyll-and-hyde.txt
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\tutorial\Tutorial\bin\Debug\net6.0\data\sherlock-holmes.txt
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\tutorial\Tutorial\bin\Debug\net6.0\Tutorial.deps.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\tutorial\Tutorial\bin\Debug\net6.0\Tutorial.runtimeconfig.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\tutorial\Tutorial\bin\Debug\net6.0\Tutorial.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\tutorial\Tutorial\bin\Debug\net6.0\Tutorial.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\tutorial\Tutorial\obj\Debug\net6.0\Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\tutorial\Tutorial\obj\Debug\net6.0\Tutorial.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\tutorial\Tutorial\obj\Debug\net6.0\Tutorial.AssemblyInfo.cs
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\tutorial\Tutorial\obj\Debug\net6.0\Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\tutorial\Tutorial\obj\Debug\net6.0\Tutorial.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\tutorial\Tutorial\obj\Debug\net6.0\refint\Tutorial.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\tutorial\Tutorial\obj\Debug\net6.0\Tutorial.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\tutorial\Tutorial\obj\Debug\net6.0\Tutorial.genruntimeconfig.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\tutorial\Tutorial\obj\Debug\net6.0\ref\Tutorial.dll

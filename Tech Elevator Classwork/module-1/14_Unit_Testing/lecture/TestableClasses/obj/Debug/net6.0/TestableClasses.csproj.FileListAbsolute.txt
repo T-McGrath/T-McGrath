@@ -1,0 +1,14 @@
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\14_Unit_Testing\lecture\TestableClasses\bin\Debug\net6.0\TestableClasses.exe
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\14_Unit_Testing\lecture\TestableClasses\bin\Debug\net6.0\TestableClasses.deps.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\14_Unit_Testing\lecture\TestableClasses\bin\Debug\net6.0\TestableClasses.runtimeconfig.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\14_Unit_Testing\lecture\TestableClasses\bin\Debug\net6.0\TestableClasses.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\14_Unit_Testing\lecture\TestableClasses\bin\Debug\net6.0\TestableClasses.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\14_Unit_Testing\lecture\TestableClasses\obj\Debug\net6.0\TestableClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\14_Unit_Testing\lecture\TestableClasses\obj\Debug\net6.0\TestableClasses.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\14_Unit_Testing\lecture\TestableClasses\obj\Debug\net6.0\TestableClasses.AssemblyInfo.cs
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\14_Unit_Testing\lecture\TestableClasses\obj\Debug\net6.0\TestableClasses.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\14_Unit_Testing\lecture\TestableClasses\obj\Debug\net6.0\TestableClasses.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\14_Unit_Testing\lecture\TestableClasses\obj\Debug\net6.0\refint\TestableClasses.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\14_Unit_Testing\lecture\TestableClasses\obj\Debug\net6.0\TestableClasses.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\14_Unit_Testing\lecture\TestableClasses\obj\Debug\net6.0\TestableClasses.genruntimeconfig.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\14_Unit_Testing\lecture\TestableClasses\obj\Debug\net6.0\ref\TestableClasses.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hsAFehbeH8faebfOR9iga7+FOE/ps6H7OhvKwGSonrRT+bdEHFu/5CGtYOaJLt/pCGPMI18jiMsvkmaly7RiZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\workspace\\trevor-mcgrath-student-code\\module-2\\11_Consuming_RESTful_APIs_Part_1\\lecture\\HotelApp\\HotelApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\restsharp\\106.15.0\\restsharp.106.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}

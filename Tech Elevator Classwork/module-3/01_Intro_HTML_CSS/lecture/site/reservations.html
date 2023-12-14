@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reservations</title>
+</head>
+<body>
+    <header>
+        <h1>Bits & Bytes Burgers</h1>
+        <p>Welcome to the internet's best restaurant</p>
+    </header>
+    <nav>
+        <a href="index.html">HOME</a>
+    </nav>
+    <main>
+        <h2>Reservation Form</h2>
+        <form method="POST" action="https://example.com/api/reservation">
+            <div>
+                <label for="reservation-name">Name: </label>
+                <input type="text" name="name" id="reservation-name"/>
+                
+            </div>
+            <div>
+                <label>
+                    <input type="date" />
+                </label>
+            </div>
+            <div>
+                <label for="special-occasion">Special occasion?</label>
+                <input type="checkbox" id="special-occasion" name="specialOccasion"/>
+            </div>
+            <div>
+                <input type="submit"/>
+            </div>
+            
+        </form>
+    </main>
+    
+</body>
+</html>

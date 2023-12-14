@@ -1,0 +1,18 @@
+body{
+    font-family:'Courier New', Courier, monospace;
+    background-color: cornflowerblue;
+}
+
+label{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+form{
+    background-color: rgb(163, 4, 4);
+}
+#submit-button{
+    background-color: black;
+    color: cornflowerblue;
+    font-weight: bold;
+}

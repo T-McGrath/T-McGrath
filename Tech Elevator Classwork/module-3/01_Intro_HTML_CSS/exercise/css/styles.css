@@ -1,0 +1,28 @@
+body{
+    font-family: cursive, Helvetica, sans-serif;
+    background-color: rgb(67, 0, 67);
+    color: rgb(234, 234, 234)
+
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+header{
+    text-align: center;
+}
+
+a{
+    color: magenta;
+}
+
+img{
+    width: 30%;
+    padding: 5px
+}
+
+blockquote{
+    font-style: italic;
+}
+

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wMOYnDrrkPqWQmKo8CkA8bImjsrRYjQGDlsDBVfwaq4=",
+  "Source": "AuctionAppServer",
+  "BasePath": "_content/AuctionAppServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

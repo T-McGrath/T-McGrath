@@ -1,0 +1,14 @@
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\08_Collections_Part_2_Dictionaries\lecture\CollectionsPart2Lecture\bin\Debug\net6.0\CollectionsPart2Lecture.exe
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\08_Collections_Part_2_Dictionaries\lecture\CollectionsPart2Lecture\bin\Debug\net6.0\CollectionsPart2Lecture.deps.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\08_Collections_Part_2_Dictionaries\lecture\CollectionsPart2Lecture\bin\Debug\net6.0\CollectionsPart2Lecture.runtimeconfig.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\08_Collections_Part_2_Dictionaries\lecture\CollectionsPart2Lecture\bin\Debug\net6.0\CollectionsPart2Lecture.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\08_Collections_Part_2_Dictionaries\lecture\CollectionsPart2Lecture\bin\Debug\net6.0\CollectionsPart2Lecture.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\08_Collections_Part_2_Dictionaries\lecture\CollectionsPart2Lecture\obj\Debug\net6.0\CollectionsPart2Lecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\08_Collections_Part_2_Dictionaries\lecture\CollectionsPart2Lecture\obj\Debug\net6.0\CollectionsPart2Lecture.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\08_Collections_Part_2_Dictionaries\lecture\CollectionsPart2Lecture\obj\Debug\net6.0\CollectionsPart2Lecture.AssemblyInfo.cs
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\08_Collections_Part_2_Dictionaries\lecture\CollectionsPart2Lecture\obj\Debug\net6.0\CollectionsPart2Lecture.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\08_Collections_Part_2_Dictionaries\lecture\CollectionsPart2Lecture\obj\Debug\net6.0\CollectionsPart2Lecture.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\08_Collections_Part_2_Dictionaries\lecture\CollectionsPart2Lecture\obj\Debug\net6.0\refint\CollectionsPart2Lecture.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\08_Collections_Part_2_Dictionaries\lecture\CollectionsPart2Lecture\obj\Debug\net6.0\CollectionsPart2Lecture.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\08_Collections_Part_2_Dictionaries\lecture\CollectionsPart2Lecture\obj\Debug\net6.0\CollectionsPart2Lecture.genruntimeconfig.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\08_Collections_Part_2_Dictionaries\lecture\CollectionsPart2Lecture\obj\Debug\net6.0\ref\CollectionsPart2Lecture.dll

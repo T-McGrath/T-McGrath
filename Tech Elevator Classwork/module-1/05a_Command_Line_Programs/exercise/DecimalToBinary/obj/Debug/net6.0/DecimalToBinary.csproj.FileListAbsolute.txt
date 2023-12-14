@@ -1,0 +1,14 @@
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\05a_Command_Line_Programs\exercise\DecimalToBinary\bin\Debug\net6.0\DecimalToBinary.exe
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\05a_Command_Line_Programs\exercise\DecimalToBinary\bin\Debug\net6.0\DecimalToBinary.deps.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\05a_Command_Line_Programs\exercise\DecimalToBinary\bin\Debug\net6.0\DecimalToBinary.runtimeconfig.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\05a_Command_Line_Programs\exercise\DecimalToBinary\bin\Debug\net6.0\DecimalToBinary.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\05a_Command_Line_Programs\exercise\DecimalToBinary\bin\Debug\net6.0\DecimalToBinary.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\05a_Command_Line_Programs\exercise\DecimalToBinary\obj\Debug\net6.0\DecimalToBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\05a_Command_Line_Programs\exercise\DecimalToBinary\obj\Debug\net6.0\DecimalToBinary.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\05a_Command_Line_Programs\exercise\DecimalToBinary\obj\Debug\net6.0\DecimalToBinary.AssemblyInfo.cs
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\05a_Command_Line_Programs\exercise\DecimalToBinary\obj\Debug\net6.0\DecimalToBinary.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\05a_Command_Line_Programs\exercise\DecimalToBinary\obj\Debug\net6.0\DecimalToBinary.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\05a_Command_Line_Programs\exercise\DecimalToBinary\obj\Debug\net6.0\refint\DecimalToBinary.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\05a_Command_Line_Programs\exercise\DecimalToBinary\obj\Debug\net6.0\DecimalToBinary.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\05a_Command_Line_Programs\exercise\DecimalToBinary\obj\Debug\net6.0\DecimalToBinary.genruntimeconfig.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\05a_Command_Line_Programs\exercise\DecimalToBinary\obj\Debug\net6.0\ref\DecimalToBinary.dll

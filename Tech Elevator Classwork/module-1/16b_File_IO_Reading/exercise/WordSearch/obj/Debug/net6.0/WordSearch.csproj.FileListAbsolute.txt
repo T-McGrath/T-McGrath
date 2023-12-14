@@ -1,0 +1,14 @@
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\exercise\WordSearch\bin\Debug\net6.0\WordSearch.exe
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\exercise\WordSearch\bin\Debug\net6.0\WordSearch.deps.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\exercise\WordSearch\bin\Debug\net6.0\WordSearch.runtimeconfig.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\exercise\WordSearch\bin\Debug\net6.0\WordSearch.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\exercise\WordSearch\bin\Debug\net6.0\WordSearch.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\exercise\WordSearch\obj\Debug\net6.0\WordSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\exercise\WordSearch\obj\Debug\net6.0\WordSearch.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\exercise\WordSearch\obj\Debug\net6.0\WordSearch.AssemblyInfo.cs
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\exercise\WordSearch\obj\Debug\net6.0\WordSearch.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\exercise\WordSearch\obj\Debug\net6.0\WordSearch.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\exercise\WordSearch\obj\Debug\net6.0\refint\WordSearch.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\exercise\WordSearch\obj\Debug\net6.0\WordSearch.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\exercise\WordSearch\obj\Debug\net6.0\WordSearch.genruntimeconfig.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\exercise\WordSearch\obj\Debug\net6.0\ref\WordSearch.dll

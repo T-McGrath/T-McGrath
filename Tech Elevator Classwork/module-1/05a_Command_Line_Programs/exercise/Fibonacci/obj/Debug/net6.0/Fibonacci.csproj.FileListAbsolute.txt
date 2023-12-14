@@ -1,0 +1,14 @@
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\05a_Command_Line_Programs\exercise\Fibonacci\bin\Debug\net6.0\Fibonacci.exe
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\05a_Command_Line_Programs\exercise\Fibonacci\bin\Debug\net6.0\Fibonacci.deps.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\05a_Command_Line_Programs\exercise\Fibonacci\bin\Debug\net6.0\Fibonacci.runtimeconfig.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\05a_Command_Line_Programs\exercise\Fibonacci\bin\Debug\net6.0\Fibonacci.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\05a_Command_Line_Programs\exercise\Fibonacci\bin\Debug\net6.0\Fibonacci.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\05a_Command_Line_Programs\exercise\Fibonacci\obj\Debug\net6.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\05a_Command_Line_Programs\exercise\Fibonacci\obj\Debug\net6.0\Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\05a_Command_Line_Programs\exercise\Fibonacci\obj\Debug\net6.0\Fibonacci.AssemblyInfo.cs
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\05a_Command_Line_Programs\exercise\Fibonacci\obj\Debug\net6.0\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\05a_Command_Line_Programs\exercise\Fibonacci\obj\Debug\net6.0\Fibonacci.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\05a_Command_Line_Programs\exercise\Fibonacci\obj\Debug\net6.0\refint\Fibonacci.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\05a_Command_Line_Programs\exercise\Fibonacci\obj\Debug\net6.0\Fibonacci.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\05a_Command_Line_Programs\exercise\Fibonacci\obj\Debug\net6.0\Fibonacci.genruntimeconfig.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\05a_Command_Line_Programs\exercise\Fibonacci\obj\Debug\net6.0\ref\Fibonacci.dll

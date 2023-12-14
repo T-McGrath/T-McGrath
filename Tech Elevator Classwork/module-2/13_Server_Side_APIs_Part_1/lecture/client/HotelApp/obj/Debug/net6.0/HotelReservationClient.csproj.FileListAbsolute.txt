@@ -1,0 +1,17 @@
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-2\13_Server_Side_APIs_Part_1\lecture\client\HotelApp\bin\Debug\net6.0\HotelReservationClient.exe
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-2\13_Server_Side_APIs_Part_1\lecture\client\HotelApp\bin\Debug\net6.0\HotelReservationClient.deps.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-2\13_Server_Side_APIs_Part_1\lecture\client\HotelApp\bin\Debug\net6.0\HotelReservationClient.runtimeconfig.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-2\13_Server_Side_APIs_Part_1\lecture\client\HotelApp\bin\Debug\net6.0\HotelReservationClient.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-2\13_Server_Side_APIs_Part_1\lecture\client\HotelApp\bin\Debug\net6.0\HotelReservationClient.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-2\13_Server_Side_APIs_Part_1\lecture\client\HotelApp\bin\Debug\net6.0\RestSharp.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-2\13_Server_Side_APIs_Part_1\lecture\client\HotelApp\obj\Debug\net6.0\HotelReservationClient.csproj.AssemblyReference.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-2\13_Server_Side_APIs_Part_1\lecture\client\HotelApp\obj\Debug\net6.0\HotelReservationClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-2\13_Server_Side_APIs_Part_1\lecture\client\HotelApp\obj\Debug\net6.0\HotelReservationClient.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-2\13_Server_Side_APIs_Part_1\lecture\client\HotelApp\obj\Debug\net6.0\HotelReservationClient.AssemblyInfo.cs
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-2\13_Server_Side_APIs_Part_1\lecture\client\HotelApp\obj\Debug\net6.0\HotelReservationClient.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-2\13_Server_Side_APIs_Part_1\lecture\client\HotelApp\obj\Debug\net6.0\HotelReservationClient.csproj.CopyComplete
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-2\13_Server_Side_APIs_Part_1\lecture\client\HotelApp\obj\Debug\net6.0\HotelReservationClient.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-2\13_Server_Side_APIs_Part_1\lecture\client\HotelApp\obj\Debug\net6.0\refint\HotelReservationClient.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-2\13_Server_Side_APIs_Part_1\lecture\client\HotelApp\obj\Debug\net6.0\HotelReservationClient.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-2\13_Server_Side_APIs_Part_1\lecture\client\HotelApp\obj\Debug\net6.0\HotelReservationClient.genruntimeconfig.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-2\13_Server_Side_APIs_Part_1\lecture\client\HotelApp\obj\Debug\net6.0\ref\HotelReservationClient.dll

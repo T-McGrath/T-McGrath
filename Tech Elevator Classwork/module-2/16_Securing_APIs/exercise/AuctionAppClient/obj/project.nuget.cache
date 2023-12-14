@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "seta3IuFXPh1PzMY/OiNUbCu35kaiNvDn0M+GammX9OMEayDgGZnkHJWWeAgK9A3J57/tN3UB90qu6qXoiYGaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\workspace\\trevor-mcgrath-student-code\\module-2\\16_Securing_APIs\\exercise\\AuctionAppClient\\AuctionAppClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\restsharp\\106.15.0\\restsharp.106.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}

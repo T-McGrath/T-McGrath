@@ -1,0 +1,168 @@
+* {
+    font-family: Tahoma, Verdana, Segoe, sans-serif;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+}
+
+body {
+    margin-left: 7%;
+    margin-right: 7%;
+    background-color: rgba(192, 192, 192, 0.1);
+}
+
+#main-grid {
+    display: grid;
+    grid-template-areas:
+        "headline headline picture"
+        "quote quote picture"
+        "profile profile contact"
+        "experience experience experience";
+    align-items: center;
+}
+
+#experience-grid {
+    grid-area: experience;
+    display: grid;
+    grid-template-areas:
+            "code code"
+            "database database"
+            "web design";   
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h1#headline {
+    font-size: 4em;
+    margin-top: 0.15em;
+    margin-bottom: 0.15em;
+    color: #505355;
+    border-bottom: solid 1px black;
+}
+
+h2 {
+    font-size: 1.8em;
+    line-height: 1.45em;
+}
+
+h3 {
+    font-size: 1em;
+    color: #00ADEE;
+}
+
+header img {
+    height: 25px;
+}
+
+.student-gray {
+    color: #505355;
+}
+
+.italic-text {
+    font-style: italic;
+}
+
+h1#headline {
+    grid-area: headline;
+}
+
+div#student-picture img{
+    border-radius: 50%;
+}
+
+div#student-picture {
+    grid-area: picture;
+    display: inline-block;
+    text-align: center;
+}
+
+div#student-quote {
+    grid-area: quote;
+}
+
+div#student-profile {
+    grid-area: profile;
+}
+
+div#student-contact{
+    grid-area: contact;
+    text-align: center;
+}
+
+#experience-code {
+    grid-area: code;
+}
+
+#experience-database {
+    grid-area: database; 
+}
+
+#experience-web {
+    grid-area: web;
+}
+
+#experience-design {
+    grid-area: design;
+}
+
+@media screen and (min-width: 1025px) {
+    #main-grid {
+        grid-template-columns: 1fr 1fr 1fr;
+        row-gap: 20px;
+        column-gap: 50px;
+    }
+
+    #experience-grid {
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr 1fr;
+        row-gap: 20px;
+        column-gap: 50px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    #main-grid {
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas:
+            "headline headline"
+            "quote picture"
+            "quote contact"
+            "profile profile"
+            "experience experience";
+            row-gap: 20px;
+            column-gap: 35px;
+    }
+
+    #experience-grid {
+        row-gap: 20px;
+        column-gap: 20px;
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas:
+            "code web"
+            "database design";
+    }
+}
+
+@media screen and (max-width: 450px) {
+    #main-grid {
+        grid-template-areas:
+            "headline"
+            "picture"
+            "contact"
+            "quote"
+            "profile"
+            "experience";
+    }
+
+    #experience-grid {
+        grid-template-areas:
+            "code"
+            "web"
+            "database"
+            "design";
+    }
+}

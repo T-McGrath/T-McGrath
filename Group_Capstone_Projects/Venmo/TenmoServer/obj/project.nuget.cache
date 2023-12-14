@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1CzOd0p9r7w9jL20qwaTmzUCTgXrQ1cbN0Te+Toqf0FLOsXLwdJ/c8sO1b+/7UgAwd/WlsadWZbIswVwZXggeA==",
+  "dgSpecHash": "W3YfclOX/9t+4zj6ls1ITTeLaVJZSjgvBuFF+xKrAXb6MF8YiQCvQjHOnTPMzOELcHVAWF6L7g8ug0WeoauRYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Student\\workspace\\c-sharp-capstonemodule2-team5\\TenmoServer\\TenmoServer.csproj",
+  "projectFilePath": "C:\\Users\\Student\\workspace\\T-McGrath\\Group_Capstone_Projects\\Venmo\\TenmoServer\\TenmoServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Student\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.20\\microsoft.aspnetcore.authentication.jwtbearer.6.0.20.nupkg.sha512",
     "C:\\Users\\Student\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

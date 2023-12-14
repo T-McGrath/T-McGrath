@@ -1,0 +1,14 @@
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\06_Intro_to_Objects_Strings\tutorial\IntroToObjectsTutorial\bin\Debug\net6.0\IntroToObjectsTutorial.exe
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\06_Intro_to_Objects_Strings\tutorial\IntroToObjectsTutorial\bin\Debug\net6.0\IntroToObjectsTutorial.deps.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\06_Intro_to_Objects_Strings\tutorial\IntroToObjectsTutorial\bin\Debug\net6.0\IntroToObjectsTutorial.runtimeconfig.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\06_Intro_to_Objects_Strings\tutorial\IntroToObjectsTutorial\bin\Debug\net6.0\IntroToObjectsTutorial.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\06_Intro_to_Objects_Strings\tutorial\IntroToObjectsTutorial\bin\Debug\net6.0\IntroToObjectsTutorial.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\06_Intro_to_Objects_Strings\tutorial\IntroToObjectsTutorial\obj\Debug\net6.0\IntroToObjectsTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\06_Intro_to_Objects_Strings\tutorial\IntroToObjectsTutorial\obj\Debug\net6.0\IntroToObjectsTutorial.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\06_Intro_to_Objects_Strings\tutorial\IntroToObjectsTutorial\obj\Debug\net6.0\IntroToObjectsTutorial.AssemblyInfo.cs
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\06_Intro_to_Objects_Strings\tutorial\IntroToObjectsTutorial\obj\Debug\net6.0\IntroToObjectsTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\06_Intro_to_Objects_Strings\tutorial\IntroToObjectsTutorial\obj\Debug\net6.0\IntroToObjectsTutorial.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\06_Intro_to_Objects_Strings\tutorial\IntroToObjectsTutorial\obj\Debug\net6.0\refint\IntroToObjectsTutorial.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\06_Intro_to_Objects_Strings\tutorial\IntroToObjectsTutorial\obj\Debug\net6.0\IntroToObjectsTutorial.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\06_Intro_to_Objects_Strings\tutorial\IntroToObjectsTutorial\obj\Debug\net6.0\IntroToObjectsTutorial.genruntimeconfig.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\06_Intro_to_Objects_Strings\tutorial\IntroToObjectsTutorial\obj\Debug\net6.0\ref\IntroToObjectsTutorial.dll

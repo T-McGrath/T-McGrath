@@ -1,0 +1,14 @@
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\02_Variables_and_Datatypes\tutorial\VariablesDatatypesTutorial\bin\Debug\net6.0\VariablesDatatypesTutorial.exe
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\02_Variables_and_Datatypes\tutorial\VariablesDatatypesTutorial\bin\Debug\net6.0\VariablesDatatypesTutorial.deps.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\02_Variables_and_Datatypes\tutorial\VariablesDatatypesTutorial\bin\Debug\net6.0\VariablesDatatypesTutorial.runtimeconfig.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\02_Variables_and_Datatypes\tutorial\VariablesDatatypesTutorial\bin\Debug\net6.0\VariablesDatatypesTutorial.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\02_Variables_and_Datatypes\tutorial\VariablesDatatypesTutorial\bin\Debug\net6.0\VariablesDatatypesTutorial.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\02_Variables_and_Datatypes\tutorial\VariablesDatatypesTutorial\obj\Debug\net6.0\VariablesDatatypesTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\02_Variables_and_Datatypes\tutorial\VariablesDatatypesTutorial\obj\Debug\net6.0\VariablesDatatypesTutorial.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\02_Variables_and_Datatypes\tutorial\VariablesDatatypesTutorial\obj\Debug\net6.0\VariablesDatatypesTutorial.AssemblyInfo.cs
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\02_Variables_and_Datatypes\tutorial\VariablesDatatypesTutorial\obj\Debug\net6.0\VariablesDatatypesTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\02_Variables_and_Datatypes\tutorial\VariablesDatatypesTutorial\obj\Debug\net6.0\VariablesDatatypesTutorial.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\02_Variables_and_Datatypes\tutorial\VariablesDatatypesTutorial\obj\Debug\net6.0\refint\VariablesDatatypesTutorial.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\02_Variables_and_Datatypes\tutorial\VariablesDatatypesTutorial\obj\Debug\net6.0\VariablesDatatypesTutorial.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\02_Variables_and_Datatypes\tutorial\VariablesDatatypesTutorial\obj\Debug\net6.0\VariablesDatatypesTutorial.genruntimeconfig.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\02_Variables_and_Datatypes\tutorial\VariablesDatatypesTutorial\obj\Debug\net6.0\ref\VariablesDatatypesTutorial.dll

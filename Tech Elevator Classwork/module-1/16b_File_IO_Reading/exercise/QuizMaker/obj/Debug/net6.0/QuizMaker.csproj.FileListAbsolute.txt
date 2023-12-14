@@ -1,0 +1,14 @@
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\exercise\QuizMaker\bin\Debug\net6.0\QuizMaker.exe
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\exercise\QuizMaker\bin\Debug\net6.0\QuizMaker.deps.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\exercise\QuizMaker\bin\Debug\net6.0\QuizMaker.runtimeconfig.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\exercise\QuizMaker\bin\Debug\net6.0\QuizMaker.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\exercise\QuizMaker\bin\Debug\net6.0\QuizMaker.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\exercise\QuizMaker\obj\Debug\net6.0\QuizMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\exercise\QuizMaker\obj\Debug\net6.0\QuizMaker.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\exercise\QuizMaker\obj\Debug\net6.0\QuizMaker.AssemblyInfo.cs
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\exercise\QuizMaker\obj\Debug\net6.0\QuizMaker.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\exercise\QuizMaker\obj\Debug\net6.0\QuizMaker.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\exercise\QuizMaker\obj\Debug\net6.0\refint\QuizMaker.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\exercise\QuizMaker\obj\Debug\net6.0\QuizMaker.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\exercise\QuizMaker\obj\Debug\net6.0\QuizMaker.genruntimeconfig.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\16b_File_IO_Reading\exercise\QuizMaker\obj\Debug\net6.0\ref\QuizMaker.dll

@@ -1,0 +1,14 @@
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\02_Variables_and_Datatypes\exercise\Exercises\bin\Debug\net6.0\Exercises.exe
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\02_Variables_and_Datatypes\exercise\Exercises\bin\Debug\net6.0\Exercises.deps.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\02_Variables_and_Datatypes\exercise\Exercises\bin\Debug\net6.0\Exercises.runtimeconfig.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\02_Variables_and_Datatypes\exercise\Exercises\bin\Debug\net6.0\Exercises.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\02_Variables_and_Datatypes\exercise\Exercises\bin\Debug\net6.0\Exercises.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\02_Variables_and_Datatypes\exercise\Exercises\obj\Debug\net6.0\Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\02_Variables_and_Datatypes\exercise\Exercises\obj\Debug\net6.0\Exercises.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\02_Variables_and_Datatypes\exercise\Exercises\obj\Debug\net6.0\Exercises.AssemblyInfo.cs
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\02_Variables_and_Datatypes\exercise\Exercises\obj\Debug\net6.0\Exercises.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\02_Variables_and_Datatypes\exercise\Exercises\obj\Debug\net6.0\Exercises.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\02_Variables_and_Datatypes\exercise\Exercises\obj\Debug\net6.0\refint\Exercises.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\02_Variables_and_Datatypes\exercise\Exercises\obj\Debug\net6.0\Exercises.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\02_Variables_and_Datatypes\exercise\Exercises\obj\Debug\net6.0\Exercises.genruntimeconfig.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\02_Variables_and_Datatypes\exercise\Exercises\obj\Debug\net6.0\ref\Exercises.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oJ4bSFNd2wz6xArR2WmyVKAL0HxET4B9VnL9HKKHbi5QUiCKCvhMxaaH0+GqJgaNWM2G8hJ8YohJHB5Ep67boA==",
+  "dgSpecHash": "JsQRj/FId6b69ajHG3RKK4JJDp8cI51tedUdm2DEkvKoq4aV5MhCFO0s0hPmWcaiVUATNjjwC5uOHHjTE0SnCA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Student\\workspace\\c-sharp-capstonemodule2-team5\\TenmoClient\\TenmoClient.csproj",
+  "projectFilePath": "C:\\Users\\Student\\workspace\\T-McGrath\\Group_Capstone_Projects\\Venmo\\TenmoClient\\TenmoClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Student\\.nuget\\packages\\restsharp\\106.15.0\\restsharp.106.15.0.nupkg.sha512"
   ],

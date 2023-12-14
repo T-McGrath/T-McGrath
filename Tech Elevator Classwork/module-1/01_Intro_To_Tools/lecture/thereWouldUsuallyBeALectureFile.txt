@@ -1,0 +1,27 @@
+Hi! Normally you would have some lecture code in here so that you can follow along on your computer if you want!
+But on the first day we don't have that.
+
+At the end of lecture, I will push up the code that we wrote AS A CLASS in another folder,
+called lecture-in-class
+
+additionally, sometimes if I feel that our in-class code differed greatly from the 
+way that they did things in the curriculum, I might give you yet another version of the code
+that one is in a colder called lecture-final.
+
+At the end of class, I will also push up today's exercise folder, and the tutorial folders for the 
+next unit.
+
+This will generally result in any particular unit having 5-6 folders in it once we are done:
+exercise
+lecture
+(sometimes) lecture-final
+lecture-in-class
+tutorial
+tutorial-final
+
+the places in here where you will write your own code include the "exercise" folder, the "lecture" folder, and the "tutorial" folder.
+
+The rest are for reference.
+
+
+ 

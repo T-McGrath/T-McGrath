@@ -1,0 +1,14 @@
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\11_Inheritance\lecture\InheritanceLecture\bin\Debug\net6.0\InheritanceLecture.exe
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\11_Inheritance\lecture\InheritanceLecture\bin\Debug\net6.0\InheritanceLecture.deps.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\11_Inheritance\lecture\InheritanceLecture\bin\Debug\net6.0\InheritanceLecture.runtimeconfig.json
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\11_Inheritance\lecture\InheritanceLecture\bin\Debug\net6.0\InheritanceLecture.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\11_Inheritance\lecture\InheritanceLecture\bin\Debug\net6.0\InheritanceLecture.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\11_Inheritance\lecture\InheritanceLecture\obj\Debug\net6.0\InheritanceLecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\11_Inheritance\lecture\InheritanceLecture\obj\Debug\net6.0\InheritanceLecture.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\11_Inheritance\lecture\InheritanceLecture\obj\Debug\net6.0\InheritanceLecture.AssemblyInfo.cs
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\11_Inheritance\lecture\InheritanceLecture\obj\Debug\net6.0\InheritanceLecture.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\11_Inheritance\lecture\InheritanceLecture\obj\Debug\net6.0\InheritanceLecture.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\11_Inheritance\lecture\InheritanceLecture\obj\Debug\net6.0\refint\InheritanceLecture.dll
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\11_Inheritance\lecture\InheritanceLecture\obj\Debug\net6.0\InheritanceLecture.pdb
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\11_Inheritance\lecture\InheritanceLecture\obj\Debug\net6.0\InheritanceLecture.genruntimeconfig.cache
+C:\Users\Student\workspace\trevor-mcgrath-student-code\module-1\11_Inheritance\lecture\InheritanceLecture\obj\Debug\net6.0\ref\InheritanceLecture.dll

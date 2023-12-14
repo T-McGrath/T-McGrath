@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9PUkIK1LIatf9lNFJnBjcqDkTTwtAT4eZBrhZ6H9mi0=",
+  "Source": "HotelReservationsServer",
+  "BasePath": "_content/HotelReservationsServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

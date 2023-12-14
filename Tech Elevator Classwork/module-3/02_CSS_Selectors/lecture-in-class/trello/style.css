@@ -1,0 +1,183 @@
+html {
+    height: 100%;
+    font-size: 16px;
+}
+* {
+  /* Indicate that the width of the box should include padding and border */
+  box-sizing: border-box;
+
+}
+body {
+    font-family: 'Raleway', sans-serif;
+    background-image: linear-gradient(to bottom, #858c90, #bbb);
+    
+  /* Do not repeat the background, stretch it */
+  background-repeat: no-repeat;
+
+  /* Do not scroll the background with the page */
+  background-attachment: fixed;
+
+}
+div.trello-list{
+    display: inline-block;
+      /* Align the top of each list */
+  vertical-align: top;
+    /* Look & Feel */
+    background-color: #ddd;
+      /* Fixed width column */
+  width: 300px;
+  
+  /* Rounded corners */
+  border-radius: 2px 3px;
+}
+div.trello-list h2{
+     /* Push H2 from the edge */
+  margin: 8px; 
+  font-size: 1rem;
+  font-weight: bold;
+}
+div.trello-list ol {
+    /* Remove any margin and padding pushing the cards in */
+    margin: 0;
+    padding: 0;
+  }
+  div.trello-list li {
+    /* Remove numerical formatting for each card */
+    list-style: none;
+    
+     /* Set background color of each item; Hex or RGB */
+    background-color: rgb(255, 255, 255);
+    
+  /* Adjust the font to be smaller than the list title */
+  font-size: 0.9rem;
+    /* Round each card edge */
+    border-radius: 1px;
+      /* Spacing between and within list items */
+  margin-bottom: 10px;
+  padding: 8px;
+  }
+  div.trello-list li:hover{
+      /* Make the item darker on hover */
+  background-color: #f5f6f7;
+  color: #092d42;
+  }
+  /* The last list item needs to reset its margin */
+div.trello-list li:last-child {
+    margin-bottom: 0px;
+  }
+  div.trello-list a {
+      /* Layout */
+    display: block;
+     /* Look */
+  text-decoration: none;
+  color: #888;
+  padding: 8px 0px 8px 5px; /* top right bottom left */
+  
+  font-size: 0.85rem;
+  }
+  div.trello-list {
+    /* Space to the right */
+    margin-right: 10px;
+      /* Align the top of each list */
+  vertical-align: top;
+  }
+  body {
+    /* Ensures elements don't wrap and forces horizontal scroll */
+    white-space: nowrap;
+  }
+  div.trello-list li {
+    /* The default setting to ensure that the list titles properly wrap */
+    white-space: normal;
+  }
+
+  header > h1,
+header > p {
+ /* Render elements side by side */
+ display: inline-block;
+
+ /* Push border away on the right */
+ padding-right: 20px;
+  /* Middle align content within block */
+  vertical-align: middle;
+  /* Slight off-shade of white -- adjust opacity so that background shows through a bit */
+  color: rgba(255, 255, 255, 0.8);
+  /* Vertical line between items */
+  border-right: 1px solid rgba(255, 255, 255, 0.5);
+
+}
+header > h1 {
+    /* Upper-case the board name */
+    text-transform: uppercase;
+  
+    /* 1.1 * the root font size */
+    font-size: 1.1rem;
+  }
+  header > p {
+    /* .9 * the root font size */
+    font-size: 0.9rem;
+    /* Push content away from the left */
+    padding-left: 5px;
+  }
+  header > p:last-child {
+    /* Remove border from last paragraph in the header */
+    border: none;
+}
+.label.pathway {
+  background-color: red;
+}
+
+.labels span {
+    display: inline-block;
+    width: 35px;
+    height: 8px;
+    vertical-align: top;
+    border-radius: 3px;
+}
+.label.individual {
+    background-color: green;
+  }
+  
+  .label.pair {
+    background-color: teal;
+  }
+  
+  .label.general {
+    background-color: orange;
+  }
+
+ /* ## Fixed header
+
+The header could be fixed so that it doesn't scroll offscreen:*/
+
+
+header {
+  /* Fixed to the window */
+  position: fixed;
+
+  /* Up against the top of container */
+  top: 0;
+
+  /* Takes up 50px height */
+  height: 50px;
+}
+main {
+    margin-top: 50px;
+  }
+/* A pseudo-element consists of two colons (::) followed by the name of the pseudo-element. */
+body::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  body::-webkit-scrollbar-track {
+    background: #bbb;
+  }
+  
+  body::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 5px;
+  }
+  
+  body::-webkit-scrollbar-thumb:hover {
+    background: #888;
+  }
+  /*box-sizing property --border-box can help create the sizes of boxes you are looking for *?
